@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="completed numbers">
+    <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="completed atoms">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/koans/04_atoms.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/04_atoms.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/koans/05_tuples.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/05_tuples.ex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628328503307</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="completed atoms">
+      <created>1628328641712</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628328641712</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +90,7 @@
     <MESSAGE value="comleted strings" />
     <MESSAGE value="comleted numbers" />
     <MESSAGE value="completed numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed numbers" />
+    <MESSAGE value="completed atoms" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed atoms" />
   </component>
 </project>
