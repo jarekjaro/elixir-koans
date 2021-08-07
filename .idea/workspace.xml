@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="completed lists">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/koans/07_keyword_lists.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/07_keyword_lists.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/koans/09_map_sets.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/09_map_sets.ex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628330176510</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="completed maps">
+      <created>1628345884247</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628345884247</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,14 +106,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="comleted strings" />
     <MESSAGE value="comleted numbers" />
     <MESSAGE value="completed numbers" />
     <MESSAGE value="completed atoms" />
     <MESSAGE value="completed tuples" />
     <MESSAGE value="completed lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed lists" />
+    <MESSAGE value="completed maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed maps" />
   </component>
 </project>
