@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="completed structs">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elixir_koans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/elixir_koans.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/koans/10_structs.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/10_structs.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/koans/12_pattern_matching.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/12_pattern_matching.ex" afterDir="false" />
+    </list>
+    <list id="a7e282e2-cd5f-48b7-9d44-ee9d453daff1" name="dads" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,26 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="5" start2="3" end2="8" changelist="aa8dbb82-1f28-4c77-bad5-56958fe6771d" />
+        <range start1="6" end1="8" start2="9" end2="9" changelist="aa8dbb82-1f28-4c77-bad5-56958fe6771d" />
+        <range start1="20" end1="20" start2="21" end2="41" changelist="aa8dbb82-1f28-4c77-bad5-56958fe6771d" />
+        <range start1="39" end1="39" start2="60" end2="61" changelist="a7e282e2-cd5f-48b7-9d44-ee9d453daff1" />
+        <range start1="107" end1="108" start2="129" end2="144" changelist="a7e282e2-cd5f-48b7-9d44-ee9d453daff1" />
+        <range start1="133" end1="134" start2="169" end2="172" changelist="a7e282e2-cd5f-48b7-9d44-ee9d453daff1" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectId" id="1wORFe27kgD7ZJt5QfgfzpET8mV" />
   <component name="ProjectViewState">
