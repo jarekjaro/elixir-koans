@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="completed lists">
+    <list default="true" id="aa8dbb82-1f28-4c77-bad5-56958fe6771d" name="Changes" comment="completed structs">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/koans/09_map_sets.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/09_map_sets.ex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elixir_koans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/elixir_koans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/koans/10_structs.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/koans/10_structs.ex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628345884247</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="completed mapsets">
+      <created>1628346270688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628346270688</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +130,7 @@
     <MESSAGE value="completed tuples" />
     <MESSAGE value="completed lists" />
     <MESSAGE value="completed maps" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed maps" />
+    <MESSAGE value="completed mapsets" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed mapsets" />
   </component>
 </project>

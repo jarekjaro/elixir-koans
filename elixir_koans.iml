@@ -15,6 +15,7 @@
       <excludeFolder url="file://$MODULE_DIR$/logs" />
       <excludeFolder url="file://$MODULE_DIR$/_build/dev/lib/file_system" />
     </content>
+    <orderEntry type="jdk" jdkName="Elixir 1.11.2" jdkType="Elixir SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="file_system" level="project" />
     <orderEntry type="library" name="ex_doc" level="project" />
